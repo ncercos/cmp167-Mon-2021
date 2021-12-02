@@ -1,4 +1,4 @@
-#Method : A set of instructions that are inside a block and it has a header, a body, and it can be called anywhere.
+##Method : A set of instructions that are inside a block and it has a header, a body, and it can be called anywhere.
 ## Method definitions: main()
 ## Method calls: indexOf(), charAt(), length(), sqrt(), pow(), abs(), next(), nextDouble(), nextInt(), print(), println()
 # Method Definition:
